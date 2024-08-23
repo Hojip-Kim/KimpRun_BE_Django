@@ -1,0 +1,30 @@
+# Python 관련
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+*.venv
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Django 관련
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+
+# 환경 변수 파일
+.env
+
+# PyCharm 관련
+.idea/
+
+# VSCode 관련
+.vscode/
+
+# 기타
+*.swp
